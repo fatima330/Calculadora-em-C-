@@ -53,3 +53,16 @@ Exemplo:
 
 ```csharp
 double num1;
+
+# 📚 Principais conceitos utilizados
+
+## 🔄 O que é o TryParse?
+
+`TryParse` significa, de forma simples, **"tente converter"**.
+
+Ele é utilizado quando queremos tentar transformar um texto em outro tipo de dado, como `int`, `double`, `decimal` etc.
+
+Isso é muito importante porque tudo que o usuário digita através do:
+
+```csharp
+Console.ReadLine()
