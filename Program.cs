@@ -51,5 +51,5 @@ do
     resposta = Console.ReadLine();
    
 }
-while (resposta == "s ");
+while (resposta == "s");
 Console.WriteLine("\n ********** Ate Logo !! **********");
