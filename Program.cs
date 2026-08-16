@@ -13,7 +13,6 @@ do
     Console.WriteLine("2 - Subtração -");
     Console.WriteLine("3 - Multiplicação *");
     Console.WriteLine("4 - Divisão /");
-    Console.WriteLine("5 - Sair");
     Console.WriteLine();
 
     int operacao = int.TryParse(Console.ReadLine(), out int result) ? result : 0;
@@ -45,9 +44,6 @@ do
             Console.WriteLine("4 - Divisão / \n");
             resultado = num1 / num2;
             Console.WriteLine($"Resultado: {num1} ÷ {num2} = {resultado}");
-            break;
-        case 5:
-            Console.WriteLine("5 - Sair \n");
             break;
     }
 

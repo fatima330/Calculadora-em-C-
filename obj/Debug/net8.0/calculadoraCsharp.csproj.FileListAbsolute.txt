@@ -12,3 +12,4 @@ C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\
 C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.pdb
 C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.genruntimeconfig.cache
 C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\ref\calculadoraCsharp.dll
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.sourcelink.json
