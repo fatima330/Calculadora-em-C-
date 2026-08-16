@@ -43,18 +43,14 @@ Além disso, o usuário pode escolher se deseja realizar uma nova operação sem
 
 ---
 
-# 📚 Conceitos utilizados
+# 📚 Principais conceitos utilizados
 
 ## 1. Variáveis
 
 Variáveis são espaços utilizados para armazenar informações durante a execução do programa.
 
 Exemplo:
-
-```csharp
 double num1;
-
-# 📚 Principais conceitos utilizados
 
 ## 🔄 O que é o TryParse?
 
@@ -64,5 +60,13 @@ Ele é utilizado quando queremos tentar transformar um texto em outro tipo de da
 
 Isso é muito importante porque tudo que o usuário digita através do:
 
-```csharp
 Console.ReadLine()
+
+Exwmplo: 
+double num1 = double.TryParse(Console.ReadLine(), out double resultado);
+
+### Estrutura do operador ternário
+
+O operador ternário segue esta estrutura:
+
+CONDIÇÃO ? SE_FOR_VERDADEIRO : SE_FOR_FALSO
