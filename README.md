@@ -65,7 +65,11 @@ Console.ReadLine()
 Exwmplo: 
 double num1 = double.TryParse(Console.ReadLine(), out double resultado);
 
-### Estrutura do operador ternário
+## ❓ O que é o `if` ternário?
+
+O **operador ternário** é uma forma mais curta de escrever uma estrutura `if/else` quando precisamos tomar uma decisão simples.
+
+Ele recebe esse nome porque possui **três partes**:
 
 O operador ternário segue esta estrutura:
 
