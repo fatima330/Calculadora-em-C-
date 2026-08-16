@@ -1,0 +1,14 @@
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\bin\Debug\net8.0\calculadoraCsharp.exe
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\bin\Debug\net8.0\calculadoraCsharp.deps.json
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\bin\Debug\net8.0\calculadoraCsharp.runtimeconfig.json
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\bin\Debug\net8.0\calculadoraCsharp.dll
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\bin\Debug\net8.0\calculadoraCsharp.pdb
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.AssemblyInfoInputs.cache
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.AssemblyInfo.cs
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.dll
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\refint\calculadoraCsharp.dll
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.pdb
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\calculadoraCsharp.genruntimeconfig.cache
+C:\Users\fatim\source\repos\Calculadora\calculadoraCsharp\calculadoraCsharp\obj\Debug\net8.0\ref\calculadoraCsharp.dll
