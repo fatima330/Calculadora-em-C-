@@ -74,3 +74,56 @@ Ele recebe esse nome porque possui **três partes**:
 O operador ternário segue esta estrutura:
 
 CONDIÇÃO ? SE_FOR_VERDADEIRO : SE_FOR_FALSO
+
+# 🔁 O que é o `do while`?
+
+O `do while` é uma **estrutura de repetição**.
+
+Ele é utilizado quando queremos que um determinado bloco de código seja executado **enquanto uma condição for verdadeira**.
+
+A palavra `do` significa **"faça"** e `while` significa **"enquanto"**.
+
+Podemos entender:
+
+> **Faça isso enquanto essa condição for verdadeira.**
+
+## 📌 Sintaxe
+
+do
+{
+    // código que será repetido
+}
+while (CONDIÇÃO);
+
+# 🔀 O que é `switch case`?
+
+O `switch case` é uma **estrutura de decisão** do C#.
+
+Ele é utilizado quando temos **várias possibilidades** e precisamos executar um código diferente dependendo do valor recebido.
+
+Podemos pensar no `switch` como uma pergunta:
+
+> **"Qual opção foi escolhida?"**
+
+E cada `case` representa uma possível resposta.
+
+---
+
+## 📌 Sintaxe
+
+A estrutura básica é:
+
+switch (variavel)
+{
+    case valor1:
+        // código executado se for valor1
+        break;
+
+    case valor2:
+        // código executado se for valor2
+        break;
+
+    case valor3:
+        // código executado se for valor3
+        break;
+}
